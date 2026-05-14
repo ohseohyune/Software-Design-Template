@@ -1,7 +1,3 @@
-# Software-Design-Template
-
-# Software-Design-Template
-
 # Software Design Template
 > 코드를 작성하기 전, 이 문서를 먼저 채운다.
 > 모든 항목을 채울 필요는 없다. 프로젝트 규모에 맞게 취사선택한다.
